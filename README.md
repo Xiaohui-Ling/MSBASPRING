@@ -1,2 +1,2 @@
-# MSBASPRING
-WM MSBA spring semester team project
+# MSBA_SPRING_Machine_Learning2_Team_Project1
+
